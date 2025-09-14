@@ -50,7 +50,7 @@ Tratamento de Erros: O Step Functions oferece recursos robustos para tratamento 
 
 Valor na Prática: A aplicação deste conceito em um cenário real, como o processamento de um pedido, demonstra o poder de automatização e como essa ferramenta pode ser usada para construir sistemas mais eficientes e confiáveis.
 
-![Descrição da imagem](images/trabalhoooo.png)
+![Descrição da imagem](trabalhoooo.png)
 
 Feito por
 Bruna Macedo
